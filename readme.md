@@ -15,3 +15,14 @@ For those who want to use it as a basis for creating a project, feel free and en
 Nesta imersão foram criados alguns projetos com foco no desenvolvimento front-end. 
 Foram feitos alguns projetos básicos de introdução ao HTML, CSS e Javascript.
 Para aqueles que quiserem usar como base para criação de algum projeto, sintam-se à vontade e aproveitem.
+
+<h2>Insignias da imersao.dev</h2>
+<ol>
+  <li>💰 <a href="https://codepen.io/coderleonardo/pen/MWJWXGd">Conversor de Moedas</a></li>
+  <li>🧮 <a href="https://codepen.io/coderleonardo/pen/ExZaLWE">Calculadora</a></li>
+  <li>🧠 <a href="https://codepen.io/coderleonardo/pen/qBRdQxR">Mentalista</a></li>
+  <li>🍿 <a href="https://codepen.io/coderleonardo/pen/poRyaLR">AluraFlix</a></li>
+  <li>📋 <a href="https://codepen.io/coderleonardo/pen/jOyMxee">Tabela de Classificação</a></li>
+  <li>🃏 <a href="https://codepen.io/coderleonardo/pen/LYxWxVy">SuperTrunfo</a></li>
+  <li>🏆 <a href="https://codepen.io/coderleonardo/pen/eYgvxZP">Certificard</a></li>
+</ol>
